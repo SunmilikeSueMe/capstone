@@ -9,9 +9,13 @@ Computing Vision (a made-up company for the purposes of this project) sees all t
 
 # Business Understanding 
 
-**WIP
+Computer Vision is trying to penetrate the movie market that makes original video content. The newly established movie studio would need to priortize certain factors to be successful as thery diversify into this new market. Some of the questions they might consider answering as they develop the best strategy to penetrate the market include: 
 
-Include stakeholder and business questions
+_What kind of movies do people want to watch?
+_How much should we spend on our movies?
+_How long should the movies last?
+_Where should we launch our content?
+
 
 # Data Understanding
 
@@ -24,15 +28,23 @@ Consult the Dataset folder in this repo to view the data.
 
 **WIP
 
-Describe interesting techniques or methods
-Written interpretation of results
-Visuals that showcase your results
+To answer the business questions, we begin with data exploration to analyze the data we have. The quality of any dataset is the quality of the analysis and conclusion that can be drawn from such data, at such we started our exploration phase with data cleaning. Upon cleaning the data, we progressed to inserting additional tables to some numeric data. For example, deducing the profits made from production budget and production gross. This allowed us to see hidden features in our data. For data maximization, we also join two tables in a database to  get a more robust data.
+
+Upon cleaning, joining, and appending new columns, we started extracting meaningful information using hypothesis testing, data visualization tools-line graphs, scartter plots and histograms-and other statistical inference tools.
+
+The holistic data analysis approach led to the following recommendations:
+
+1. Data analysis tool and back up with visual and a short sentence defending result
+2. Data analysis tool and back up with visual and a short sentence defending result
+3. Data analysis tool and back up with visual and a short sentence defending result
+
 
 # Conclusion
 
 **WIP
 
-Summary of conclusions / recommendations
+Upon completion of this project, we recommend Computer Vision should consider (add the summary of the recommendations, separated by commas short and sweet)  in their pursuit of creating their first studio original content.
+
 
 # Repository File Structure
 
