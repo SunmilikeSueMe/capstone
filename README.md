@@ -9,7 +9,7 @@ Computing Vision (a made-up company for the purposes of this project) sees all t
 
 # Business Understanding 
 
-Computer Vision is trying to penetrate the movie market that makes original video content. The newly established movie studio would need to priortize certain factors to be successful as thery diversify into this new market. Some of the questions they might consider answering as they develop the best strategy to penetrate the market include: 
+Computing Vision is trying to penetrate the movie market that makes original video content. The newly established movie studio would need to priortize certain factors to be successful as they diversify into this new market. Some of the questions they might consider answering as they develop the best strategy to penetrate the market include: 
 
 _What kind of movies do people want to watch?
 _How much should we spend on our movies?
