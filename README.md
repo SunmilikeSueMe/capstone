@@ -1,7 +1,7 @@
 # Capstone Project
 **By _Emmanuel Adams, _Muhammad Al Mahdi, _Imam Hasan Araf, Sunmisola Ogundairo
 
-A repository for all documents and deliverables for the Computer Vision project, serviced by team 7 of Deloitte's AI Academy, cohort 4.
+A repository for all documents and deliverables for the Computing Vision project, serviced by team 7 of Deloitte's AI Academy, cohort 4.
 
 # Overview
 
@@ -19,14 +19,13 @@ _Where should we launch our content?
 
 # Data Understanding
 
-The data used for this analysis was provided by Flatiron School. Each datatset contains thousands of information describing different kind of details about movies that have been released in the past few years. Some of the descriptors include, ratings, genres, budget, movie title, directors, movie revenue amongst others. 
+The data used for this analysis came from Box Office, IMDB, Rotten Tomatoes, Movie DB, and Numbers. Each datatset contains thousands of information describing different kind of details about movies that have been released in the past few years. Some of the descriptors include, ratings, genres, budget, movie title, directors, movie revenue amongst others. 
 
 Consult the Dataset folder in this repo to view the data. 
-**Note: Large datatsets will be in the .gitignore file
+
+Note: Large datatsets will be in the .gitignore file
 
 # Data Analysis
-
-**WIP
 
 To answer the business questions, we begin with data exploration to analyze the data we have. The quality of any dataset is the quality of the analysis and conclusion that can be drawn from such data, at such we started our exploration phase with data cleaning. Upon cleaning the data, we progressed to inserting additional tables to some numeric data. For example, deducing the profits made from production budget and production gross. This allowed us to see hidden features in our data. For data maximization, we also join two tables in a database to  get a more robust data.
 
@@ -34,23 +33,20 @@ Upon cleaning, joining, and appending new columns, we started extracting meaning
 
 The holistic data analysis approach led to the following recommendations:
 
-1. Data analysis tool and back up with visual and a short sentence defending result
-2. Data analysis tool and back up with visual and a short sentence defending result
-3. Data analysis tool and back up with visual and a short sentence defending result
-
+1. We used a barplot to illustrate our recommendation on movie budget: Make movies that cost 5 million or lower
+2. We used two boxplots to contrast the importance of launching domestically before expanding to foreign markets, this was supported with hypothesis testing
+3. Usng a histogram, we identified the top generes with high ratings are Documentary, Drama and Comedy
+4. Staistical inference, hypothesis testing and a lineplot helped us illustrate that short movies (56 minutes runtime) have a higher rating  
 
 # Conclusion
 
-**WIP
-
-Upon completion of this project, we recommend Computer Vision should consider (add the summary of the recommendations, separated by commas short and sweet)  in their pursuit of creating their first studio original content.
-
+Upon completion of this project, we recommend Computing Vision consider investing in movies that cost lower than 5 million, launch their movie domestically, focus on documentary, drama, and comedy genres and invest in short movies as they plan to begin creating original video content.
 
 # Repository File Structure
 
 The repository houses the following:
 
--Computer Vision Movie Originals Analysis (Notebook)
+-Final_Notebook
 -Datasets
 -Exploratory_Notebook
 -.gitignore
