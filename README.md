@@ -40,7 +40,12 @@ The holistic data analysis approach led to the following recommendations:
 
 # Conclusion
 
-Upon completion of this project, we recommend Computing Vision consider investing in movies that cost lower than 5 million, launch their movie domestically, focus on documentary, drama, and comedy genres and invest in short movies as they plan to begin creating original video content.
+Upon completion of this project, we recommend Computing Vision consider 
+
+A. Investing in movies that cost lower than 5 million
+B. Launch their movie domestically before expanding to foreign markets
+C. Focus on documentary, drama, and comedy genres 
+D. Invest in short movies as they plan to begin creating original video content
 
 # Repository File Structure
 
@@ -48,8 +53,10 @@ The repository houses the following:
 
 -Final_Notebook
 -Datasets
+-IMDB
 -Exploratory_Notebook
 -.gitignore
--Presentation
+-Presentation in PDF
+-Final_Notebook in PDF
 -README.md 
 
